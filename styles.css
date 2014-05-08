@@ -20,13 +20,23 @@ a {
 
 .grid {
 	text-align: center;
+	text-align: justify;
 }
 
 .logo {
 	width: 135px;
 	height: 180px;
-	margin: 0 5%;
+	/*margin: 0 5%;*/
 	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+}
+
+.stretch {
+	width: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0
 }
 
 .footer {

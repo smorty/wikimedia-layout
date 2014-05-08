@@ -1,1 +1,54 @@
+body {
+	width: 70%;
+	margin: 0 auto;
+	max-width: 1000px;
+}
 
+p {
+	font: 1.25em/1.5 sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #0645AD;
+}
+
+.right {
+	text-align: right;
+	line-height: 1;
+}
+
+.grid {
+	text-align: center;
+}
+
+.logo {
+	width: 135px;
+	height: 180px;
+	margin: 0 5%;
+	display: inline-block;
+}
+
+.footer {
+	margin: 0 auto;
+	border-top: 1px solid #AAA;
+	text-align: center;
+	float: none;
+}
+
+.commitment {
+	font-size: 0.8em;
+}
+
+.legal {
+	display: inline;
+	text-align: center;
+	width: 70%;
+	font: 0.8em sans-serif;
+	list-style: none;
+}
+
+li {
+	display: inline;
+	margin: 0 10px;
+}
